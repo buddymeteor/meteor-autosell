@@ -1,0 +1,7 @@
+{
+    "key.meteor-autosell.openConfig": "Open Meteor AutoSell Config",
+    "key.meteor-autosell.toggleAutoSell": "Toggle Auto Sell",
+    "key.meteor-autosell.toggleAutoReturn": "Toggle Auto Return",
+    "key.meteor-autosell.toggleStatusHud": "Toggle Status HUD",
+    "category.meteor-autosell": "Meteor AutoSell"
+}

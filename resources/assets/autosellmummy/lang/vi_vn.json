@@ -1,0 +1,7 @@
+{
+    "key.meteor-autosell.openConfig": "Mo cau dat Meteor AutoSell",
+    "key.meteor-autosell.toggleAutoSell": "Bat/Tat Auto Sell",
+    "key.meteor-autosell.toggleAutoReturn": "Bat/Tat Auto Return",
+    "key.meteor-autosell.toggleStatusHud": "Bat/Tat Status HUD",
+    "category.meteor-autosell": "Meteor AutoSell"
+}

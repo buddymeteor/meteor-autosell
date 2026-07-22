@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "meteor-autosell",
+    "version": "${version}",
+    "name": "Meteor AutoSell",
+    "description": "Open source auto sell mod with admin detection, player detection, and Discord integration.",
+    "authors": [
+        "Meteor Team"
+    ],
+    "contact": {
+        "sources": "https://github.com/meteor-autosell/meteor-autosell"
+    },
+    "license": "MIT",
+    "icon": "assets/meteor-autosell/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.autosellmummy.AutoSellMummy"
+        ]
+    },
+    "mixins": [
+        "meteor-autosell.mixins.json"
+    ],
+    "accessWidener": "meteor-autosell.accesswidener",
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
